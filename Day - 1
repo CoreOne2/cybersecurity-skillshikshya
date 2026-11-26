@@ -1,1 +1,10 @@
+CIA Triad 
+Confidentiality = Keep data secret.
+Integrity = Keep data accurate.
+Availability = Keep data accessible.
+
+Threat / Vulnerability / Risk
+A person in zoo with a small fence against a tiger => Threat = Tiger , Vulnerability = Person , Risk = Person can fall from small fence to Tiger
+
+
 
